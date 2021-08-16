@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO: Sistemas de Informação`
 
-`DISCIPLINA`
+`DISCIPLINA: Projeto - Aplicações Web`
 
-`SEMESTRE`
+`SEMESTRE: 1º`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -14,32 +14,21 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
+* Nome completo do aluno 5
 
 ## Orientador
 
 * Nome completo do professor 1
 
-## Instruções de utilização
+# Planejamento
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-# Documentação
-
-<ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
-</ol>
+| Etapa         | Período                   | Atividades |
+|  :----:   |  :----:               | ----------- |
+| ETAPA 1       | 16/08/2021 - 17/09/2021   |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
+| ETAPA 2       | 20/09/2021 - 08/10/2021   |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
+| ETAPA 3       | 11/10/2021 - 05/11/2021   |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
+| ETAPA 4       | 08/11/2021 - 03/12/2021   |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
+| ETAPA 5       | 06/12/2021 - 17/12/2021   | [Apresentação](presentation/README.md) |
 
 # Código
 
