@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Hello word
 
 `CURSO: Sistemas de Informação`
 
